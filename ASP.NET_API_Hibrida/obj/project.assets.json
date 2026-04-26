@@ -4502,11 +4502,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Desktop\\TEC\\8vo Semestre\\Conectividad A Datos\\Unidad 2\\EntregaBDHibrida\\APIhibridaASP\\APIhibridaASP.csproj",
+      "projectUniqueName": "D:\\Desktop\\TEC\\8vo Semestre\\Conectividad A Datos\\Unidad 2\\EntregaBDHibrida\\APIhibridaASP\\ASP.NET_API_Hibrida\\APIhibridaASP.csproj",
       "projectName": "APIhibridaASP",
-      "projectPath": "D:\\Desktop\\TEC\\8vo Semestre\\Conectividad A Datos\\Unidad 2\\EntregaBDHibrida\\APIhibridaASP\\APIhibridaASP.csproj",
+      "projectPath": "D:\\Desktop\\TEC\\8vo Semestre\\Conectividad A Datos\\Unidad 2\\EntregaBDHibrida\\APIhibridaASP\\ASP.NET_API_Hibrida\\APIhibridaASP.csproj",
       "packagesPath": "C:\\Users\\carlo\\.nuget\\packages\\",
-      "outputPath": "D:\\Desktop\\TEC\\8vo Semestre\\Conectividad A Datos\\Unidad 2\\EntregaBDHibrida\\APIhibridaASP\\obj\\",
+      "outputPath": "D:\\Desktop\\TEC\\8vo Semestre\\Conectividad A Datos\\Unidad 2\\EntregaBDHibrida\\APIhibridaASP\\ASP.NET_API_Hibrida\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
